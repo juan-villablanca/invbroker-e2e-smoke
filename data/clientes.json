@@ -1,0 +1,19 @@
+{
+  "latin": {
+    "baseUrl": "https://clientes.latinlabs.io/",
+    "user": "invera_broker_front@example.com",
+    "pass": "invera-broker-uat",
+    "storageState": ".auth/latin.json",
+    "fciData": {
+      "fundName": "DELTA ACCIONES - CLASE A",
+      "accountToSearch": "1143",
+      "amount": 15000
+    }
+  },
+  "whitelabel": {
+    "baseUrl": "https://web.demo.invbroker.com/",
+    "user": "ezequiel.ortiz@invera.com.ar",
+    "pass": "O7hy*@pb5*Ap",
+    "storageState": ".auth/whitelabel.json"
+  }
+}
